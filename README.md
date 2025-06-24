@@ -4,23 +4,23 @@ Este aplicativo foi criado para demonstrar como integrar e utilizar os principai
 
 ## Funcionalidades disponíveis
 
-- 🔑 **Autenticação**
+- **Autenticação**
   - Login com e-mail e senha
   - Cadastro de novos usuários
   - Reset de senha
   - Logout
 
-- 📄 **Firestore**
+- **Firestore**
   - Leitura e escrita de dados
   - Atualização e exclusão de documentos
   - Exemplos de coleções e subcoleções
 
-- ☁️ **Storage**
+- **Storage**
   - Upload de arquivos (imagens, documentos)
   - Download e visualização
   - Gerenciamento de arquivos
 
-- 🔥 **Configuração de Ambiente**
+- **Configuração de Ambiente**
   - Uso de variáveis via `.env`
   - Configuração dinâmica com `app.config.js` e `expo-constants`
 
